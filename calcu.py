@@ -8,3 +8,6 @@ if x>y:
 else:
     y = 0
     x = 0
+
+for i in range(1,10):
+    i = i+4
